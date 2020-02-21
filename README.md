@@ -4,9 +4,9 @@ It includes advance Android Codes (MVVM, Room, LiveData, Observers) for learning
 
 ## Room-Database-Android
 This repository includes basic insert and view operation of Room Database, how it works and coded</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Video:</b> https://www.youtube.com/watch?v=dDGJCXSqmDU&feature=youtu.be
+<ul><b>Video:</b> https://www.youtube.com/watch?v=dDGJCXSqmDU&feature=youtu.be
 
 ## RoomLiveDataRecyclerView
 
 It includes the basic implementation of Room and LiveData with RecyclerView. You insert the data in Room database and register a LiveData observer. When any change occurs in database, it will automatically update the UI (recyclerView)</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Video:</b> https://www.youtube.com/watch?v=5OZH-H6cZwA&feature=youtu.be
+<ul><b>Video:</b> https://www.youtube.com/watch?v=5OZH-H6cZwA&feature=youtu.be
